@@ -1,0 +1,20 @@
+FYERS API KEY
+===========================================
+Account : XP02781 / Zero3hero@ / AXCPM9539M
+Redirect URL:
+http://127.0.0.1:5000/loginstatus
+Description:
+Test app
+
+Created On:
+Wed Jun 16 2021
+
+Status:
+Approved
+
+App Id:
+IRHN89SGYT
+
+Secret Id:
+PGYXP8UCXQ
+=========================================

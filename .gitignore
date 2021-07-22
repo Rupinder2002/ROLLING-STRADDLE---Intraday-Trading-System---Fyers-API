@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+data/*.csv
+temp/*.txt
+temp/*.csv
+temp/*.obj
+log/*.log

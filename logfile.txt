@@ -1,0 +1,33 @@
+D:\ProjectT\Quickey\Rolling_SIR>c:/users/ilay/appdata/local/programs/python/python38/python.exe d:/ProjectT/Quickey/Rolling_SIR/fyers_main.py     
+{'code': 400, 'data': [], 'message': 'RMS:221061850672:NSE,OPTIDX,55352,BANKNIFTY-Jun2021-35000.0000-CE,INTRADAY,,2021-06-24 00:00:00,XP02781,B,25,I,163.2,FUND LIMIT INSUFFICIENT,AVAILABLE FUND =95.65,ADDITIONAL REQUIRED FUND=3984.35,CALCULATED SPAN & EXPOSURE FOR ORDER=4080.00'}
+
+D:\ProjectT\Quickey\Rolling_SIR>c:/users/ilay/appdata/local/programs/python/python38/python.exe d:/ProjectT/Quickey/Rolling_SIR/fyers_main.py     
+{'code': 200, 'data': {'code': 1101, 'id': '121061839674'}, 'message': 'Order submitted successfully. Your Order Ref. No.121061839674'}
+
+D:\ProjectT\Quickey\Rolling_SIR>c:/users/ilay/appdata/local/programs/python/python38/python.exe d:/ProjectT/Quickey/Rolling_SIR/fyers_main.py     
+{'code': 200, 'data': {'netPositions': [{'crossCurrency': 'N', 'qty': 1, 'realized_profit': 0.0, 'id': 'NSE:INDIANB-EQ-INTRADAY', 'unrealized_profit': -1.45, 'buyQty': 1, 'sellAvg': 0.0, 'sellQty': 0, 'buyAvg': 137.5, 'symbol': 'NSE:INDIANB-EQ', 'fyToken': '101000000014309', 'slNo': 0, 'avgPrice': 137.5, 'segment': 'E', 'dummy': '          ', 'rbiRefRate': 1.0, 'side': 1, 'netQty': 1, 'pl': -1.45, 'productType': 'INTRADAY', 'netAvg': 
+137.5, 'qtyMulti_com': 1.0}, {'crossCurrency': 'N', 'qty': 0, 'realized_profit': -4.35, 'id': 'NSE:RBLBANK-EQ-INTRADAY', 'unrealized_profit': 0.0, 'buyQty': 1, 'sellAvg': 205.65, 'sellQty': 1, 'buyAvg': 210.0, 'symbol': 'NSE:RBLBANK-EQ', 'fyToken': '101000000018391', 'slNo': 1, 'avgPrice': 0, 'segment': 'E', 'dummy': '          ', 'rbiRefRate': 1.0, 'side': '', 'netQty': 0, 'pl': -4.35, 'productType': 'INTRADAY', 'netAvg': 0.0, 'qtyMulti_com': 1.0}]}, 'message': ''}
+{'crossCurrency': 'N', 'qty': 1, 'realized_profit': 0.0, 'id': 'NSE:INDIANB-EQ-INTRADAY', 'unrealized_profit': -1.45, 'buyQty': 1, 'sellAvg': 0.0, 'sellQty': 0, 'buyAvg': 137.5, 'symbol': 'NSE:INDIANB-EQ', 'fyToken': '101000000014309', 'slNo': 0, 'avgPrice': 137.5, 'segment': 'E', 'dummy': '          ', 'rbiRefRate': 1.0, 'side': 1, 'netQty': 1, 'pl': -1.45, 'productType': 'INTRADAY', 'netAvg': 137.5, 'qtyMulti_com': 1.0}
+NSE:INDIANB-EQ-INTRADAY -1.45
+{'symbol': 'NSE:INDIANB-EQ', 'qty': 1, 'type': 4, 'side': -1, 'productType': 'INTRADAY', 'limitPrice': 0, 'stopPrice': 0, 'disclosedQty': 0, 'validity': 'DAY', 'offlineOrder': 'False', 'stoploss': 0, 'takeProfit': 0, 'stopLoss': 123.75}
+{'code': 400, 'data': [], 'message': 'Please provide a valid price for stop limit order'}
+13.75
+within the stop
+{'crossCurrency': 'N', 'qty': 0, 'realized_profit': -4.35, 'id': 'NSE:RBLBANK-EQ-INTRADAY', 'unrealized_profit': 0.0, 'buyQty': 1, 'sellAvg': 205.65, 'sellQty': 1, 'buyAvg': 210.0, 'symbol': 'NSE:RBLBANK-EQ', 'fyToken': '101000000018391', 'slNo': 1, 'avgPrice': 0, 'segment': 'E', 'dummy': ' 
+         ', 'rbiRefRate': 1.0, 'side': '', 'netQty': 0, 'pl': -4.35, 'productType': 'INTRADAY', 'netAvg': 0.0, 'qtyMulti_com': 1.0}
+No open Positions
+
+D:\ProjectT\Quickey\Rolling_SIR>c:/users/ilay/appdata/local/programs/python/python38/python.exe d:/ProjectT/Quickey/Rolling_SIR/fyers_main.py     
+{'code': 200, 'data': {'netPositions': [{'crossCurrency': 'N', 'qty': 1, 'realized_profit': 0.0, 'id': 'NSE:INDIANB-EQ-INTRADAY', 'unrealized_profit': -2.2, 'buyQty': 1, 'sellAvg': 0.0, 'sellQty': 0, 'buyAvg': 137.5, 'symbol': 'NSE:INDIANB-EQ', 'fyToken': '101000000014309', 'slNo': 0, 'avgPrice': 137.5, 'segment': 'E', 'dummy': '          ', 'rbiRefRate': 1.0, 'side': 1, 'netQty': 1, 'pl': -2.2, 'productType': 'INTRADAY', 'netAvg': 137.5, 'qtyMulti_com': 1.0}, {'crossCurrency': 'N', 'qty': 0, 'realized_profit': -4.35, 'id': 'NSE:RBLBANK-EQ-INTRADAY', 'unrealized_profit': 0.0, 'buyQty': 1, 'sellAvg': 205.65, 'sellQty': 1, 'buyAvg': 210.0, 'symbol': 'NSE:RBLBANK-EQ', 'fyToken': '101000000018391', 'slNo': 1, 'avgPrice': 0, 
+'segment': 'E', 'dummy': '          ', 'rbiRefRate': 1.0, 'side': '', 'netQty': 0, 'pl': -4.35, 'productType': 'INTRADAY', 'netAvg': 0.0, 'qtyMulti_com': 1.0}]}, 'message': ''}
+{'crossCurrency': 'N', 'qty': 1, 'realized_profit': 0.0, 'id': 'NSE:INDIANB-EQ-INTRADAY', 'unrealized_profit': -2.2, 'buyQty': 1, 'sellAvg': 0.0, 
+'sellQty': 0, 'buyAvg': 137.5, 'symbol': 'NSE:INDIANB-EQ', 'fyToken': '101000000014309', 'slNo': 0, 'avgPrice': 137.5, 'segment': 'E', 'dummy': ' 
+         ', 'rbiRefRate': 1.0, 'side': 1, 'netQty': 1, 'pl': -2.2, 'productType': 'INTRADAY', 'netAvg': 137.5, 'qtyMulti_com': 1.0}
+NSE:INDIANB-EQ-INTRADAY -2.2
+{'symbol': 'NSE:INDIANB-EQ', 'qty': 1, 'type': 4, 'side': -1, 'productType': 'INTRADAY', 'limitPrice': 0, 'stopPrice': 0, 'disclosedQty': 0, 'validity': 'DAY', 'offlineOrder': 'False', 'stoploss': 0, 'takeProfit': 0, 'stopLoss': 13.75}
+{'code': 400, 'data': [], 'message': 'Please provide a valid price for stop limit order'}
+13.75
+within the stop
+{'crossCurrency': 'N', 'qty': 0, 'realized_profit': -4.35, 'id': 'NSE:RBLBANK-EQ-INTRADAY', 'unrealized_profit': 0.0, 'buyQty': 1, 'sellAvg': 205.65, 'sellQty': 1, 'buyAvg': 210.0, 'symbol': 'NSE:RBLBANK-EQ', 'fyToken': '101000000018391', 'slNo': 1, 'avgPrice': 0, 'segment': 'E', 'dummy': ' 
+         ', 'rbiRefRate': 1.0, 'side': '', 'netQty': 0, 'pl': -4.35, 'productType': 'INTRADAY', 'netAvg': 0.0, 'qtyMulti_com': 1.0}
+Closed Positions

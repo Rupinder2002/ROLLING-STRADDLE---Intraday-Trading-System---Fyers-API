@@ -1,0 +1,10 @@
+{
+    "instrument": "NIFTY",
+    "lots":1,
+    "start_time": "09:22",
+    "end_time": "15:13",
+    "max_loss": 1600,
+    "trail_perc": 40,
+    "timeframe" : 3,
+    "strdl_range": 50
+}
