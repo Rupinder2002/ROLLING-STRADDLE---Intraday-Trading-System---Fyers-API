@@ -13,10 +13,10 @@ import math
 # alice = AliceBlue(username=username, password=password, access_token=access_token, \
 #     master_contracts_to_download=['NSE','NFO'])
 
-username = 'AB163811'
-password = 'Delldoll123$'
-api_secret = '8X39OECIWJOQDGI2E0ERQ688HZYT22HDIAC5D4D5XWHL3HU1XJ1RNB5BZ41YQTQ3'
-twoFA = 'i'
+username = ''
+password = ''
+api_secret = ''
+twoFA = ''
 
 
 alice  =None
