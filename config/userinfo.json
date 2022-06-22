@@ -1,11 +1,11 @@
 {
-    "fyers_app_id": "IRHN89SGYT",
-    "fyers_app_secret": "PGYXP8UCXQ",
-    "fyers_id": "XP02781",
-    "fyers_password": "Zero3hero@",
-    "fyers_pan_or_dob": "AXCPM9539M",
-    "alice_username":"AB163811",
-    "alice_password":"Delldoll123$",
-    "alice_api_secret":"8X39OECIWJOQDGI2E0ERQ688HZYT22HDIAC5D4D5XWHL3HU1XJ1RNB5BZ41YQTQ3",
-    "alice_twoFA":"i"
+    "fyers_app_id": "",
+    "fyers_app_secret": "",
+    "fyers_id": "",
+    "fyers_password": "",
+    "fyers_pan_or_dob": "",
+    "alice_username":"",
+    "alice_password":"",
+    "alice_api_secret":"",
+    "alice_twoFA":""
 }
